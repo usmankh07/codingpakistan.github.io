@@ -1,28 +1,28 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Coding Pakistan`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Muhammad Usman`,
+      summary: `Full Stack Developer from Pakistan.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `A Solutions guide for software engineers looking to solve their errors and learning new things`,
+    siteUrl: `https://codingpakistan.github.io`,
     social: {
       twitter: `yinkakun`,
     },
     socialLinks: [
       {
         name: 'github',
-        url: 'https://github.com',
+        url: '',
       },
       {
         name: 'twitter',
-        url: 'https://twitter.com',
+        url: '',
       },
       {
         name: 'instagram',
-        url: 'https://instagram.com',
+        url: '',
       },
     ],
   },
