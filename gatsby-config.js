@@ -7,7 +7,7 @@ module.exports = {
     },
     openGraphImage: `open-graph-image.png`,
     description: `A Solutions guide for software engineers looking to solve their errors and learning new things`,
-    siteUrl: `https://codingpakistan.github.io`,
+    siteUrl: `https://usmankh07.github.io`,
     social: {
       twitter: `yinkakun`,
     },
